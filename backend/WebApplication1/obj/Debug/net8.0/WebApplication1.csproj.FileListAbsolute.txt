@@ -1,0 +1,8 @@
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/obj/Debug/net8.0/WebApplication1.sourcelink.json

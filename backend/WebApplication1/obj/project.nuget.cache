@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "77YP3VJ3KPE=",
+  "success": true,
+  "projectFilePath": "/Users/mekelihiller/Desktop/Mission10/backend/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mekelihiller/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/mekelihiller/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
